@@ -1,0 +1,14 @@
+{
+    "employees":[
+        {"id":1, "nane":"Erős István", "city":"Szeged"},
+        {"id":2, "nane":"Nagy János", "city":"Szeged"},
+        {"id":3, "nane":"Gyenge Tibor", "city":"Szombathely"},
+        {"id":4, "nane":"Bor Anna", "city":"Szeged"},
+        {"id":5, "nane":"Mézes Evelin", "city":"Szeged"},
+        {"id":6, "nane":"Kuka Elemér", "city":"Szolnok"},
+        {"id":7, "nane":"Németh István", "city":"Szeged"},
+        {"id":8, "nane":"Kis Ernő", "city":"Budapest"},
+        {"id":9, "nane":"Tóth Márk", "city":"Budapest"},
+        {"id":10, "nane":"Sebes Cecilia", "city":"Szeged"}
+    ]
+}
